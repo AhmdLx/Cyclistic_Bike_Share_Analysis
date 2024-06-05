@@ -7,8 +7,7 @@ Cyclistic, a bike-sharing company, aims to expand its customer base and improve 
 ## Repository Contents
 #### Project Planning Documents (PDF Files): 
 Detailed project plans, methodologies, and analysis frameworks.
-#### Data Pipeline SQL Code: 
-[Summer Trends](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends), [Total trips](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m4!1m3!8m2!1s495492972980!2sa465fe42dbae4d86907b8e6327fedc86)
+#### Data Pipeline SQL Code: [Summer Trends](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends), [Total trips](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m4!1m3!8m2!1s495492972980!2sa465fe42dbae4d86907b8e6327fedc86)
 #### Target Tables in Google Cloud BigQuery: [Summer Trends Table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends), [Total trips table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3stotal%2520trips%2520table-cyclistic%2520project)
 #### Tableau Dashboard: [Cyclistic Dashboard](https://public.tableau.com/app/profile/ahmdlx/viz/CyclisticProject_17088918886290/Cyclistic)
 #### Executive Summary (PDF File): 
@@ -25,14 +24,14 @@ Comparison of usage patterns between different user groups.
 Insights into station congestion and recommendations for new station placements.
 
 ## Tools and Technologies
-### Google BigQuery: 
+#### Google BigQuery: 
 For querying and analyzing large datasets.
-### Tableau Public: 
+#### Tableau Public: 
 For creating interactive visualizations and dashboards.
-### MS PowerPoint: 
+#### MS PowerPoint: 
 For a brief overview of the most relevant information.
 
 ## How to Use This Repository
-### Clone the Repository: Download the repository to your local machine.
-### Google BigQuery: Access and query the datasets provided.
-### Tableau: Open the link to explore and interact with the visualizations.
+#### Clone the Repository: Download the repository to your local machine.
+#### Google BigQuery: Access and query the datasets provided.
+#### Tableau: Open the link to explore and interact with the visualizations.

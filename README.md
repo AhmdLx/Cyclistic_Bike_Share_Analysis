@@ -1,17 +1,19 @@
 # Cyclistic Bike-Share Analysis Project
 This repository contains the analysis and visualizations conducted as part of the Cyclistic Bike-Share Analysis Project, which is a component of my [Google Business Intelligence Certificate](https://coursera.org/share/c4f4857aeaf61150279d9e74d63276fa).
 
-### Project Summary
+## Project Summary
 Cyclistic, a bike-sharing company, aims to expand its customer base and improve its services by understanding how customers use their bikes. The project involves analyzing customer usage patterns, identifying demand at various station locations, and assessing the impact of weather on bike usage. Key goals include distinguishing usage patterns between subscribers and non-subscribers and providing actionable insights to inform strategic decisions for business growth and station placement.
 
 ## Repository Contents
-1- Project Planning Documents (PDF Files): Detailed project plans, methodologies, and analysis frameworks.
-2- Data Pipeline SQL Code: Queries used to process and analyze the data in Google BigQuery.
-3- Target Tables in Google Cloud BigQuery: 
+### Project Planning Documents (PDF Files): 
+Detailed project plans, methodologies, and analysis frameworks.
+### Data Pipeline SQL Code: 
+Queries used to process and analyze the data in Google BigQuery.
+### Target Tables in Google Cloud BigQuery: 
 Link to BigQuery Tables 
 [Summer Trends Table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends)
 [Total trips table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3stotal%2520trips%2520table-cyclistic%2520project)
-4- Tableau Dashboard: [Cyclistic Dashboard](https://public.tableau.com/app/profile/ahmdlx/viz/CyclisticProject_17088918886290/Cyclistic)
+### Tableau Dashboard: [Cyclistic Dashboard](https://public.tableau.com/app/profile/ahmdlx/viz/CyclisticProject_17088918886290/Cyclistic)
 5- Executive Summary (PDF File): A comprehensive summary of the project's findings and insights.
 
 Key Insights

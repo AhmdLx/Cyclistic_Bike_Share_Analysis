@@ -5,13 +5,13 @@ This repository contains the analysis and visualizations conducted as part of th
 Cyclistic, a bike-sharing company, aims to expand its customer base and improve its services by understanding how customers use their bikes. The project involves analyzing customer usage patterns, identifying demand at various station locations, and assessing the impact of weather on bike usage. Key goals include distinguishing usage patterns between subscribers and non-subscribers and providing actionable insights to inform strategic decisions for business growth and station placement.
 
 ## Repository Contents
-#### Project Planning Documents (PDF Files): 
+#### 1/Project Planning Documents (PDF Files): 
 Detailed project plans, methodologies, and analysis frameworks.
-#### Data Pipeline SQL Code: [Summer Trends](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends), [Total trips](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m4!1m3!8m2!1s495492972980!2sa465fe42dbae4d86907b8e6327fedc86)
-#### Additional dataset (CSV File) : zip codes
-#### Target Tables in Google Cloud BigQuery: [Summer Trends Table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends), [Total trips table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3stotal%2520trips%2520table-cyclistic%2520project)
-#### Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/ahmdlx/viz/CyclisticProject_17088918886290/Cyclistic)
-#### Executive Summary (PDF File): 
+#### 2/Data Pipeline SQL Code: [Summer Trends](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends), [Total trips](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m4!1m3!8m2!1s495492972980!2sa465fe42dbae4d86907b8e6327fedc86)
+#### 3/Additional dataset (CSV File) : zip codes
+#### 4/Target Tables in Google Cloud BigQuery: [Summer Trends Table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends), [Total trips table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3stotal%2520trips%2520table-cyclistic%2520project)
+#### 5/Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/ahmdlx/viz/CyclisticProject_17088918886290/Cyclistic)
+#### 6/Executive Summary (PDF File): 
 A comprehensive summary of the project's findings and insights.
 
 ## Key Insights

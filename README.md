@@ -1,7 +1,7 @@
 # Cyclistic Bike-Share Analysis Project
 This repository contains the analysis and visualizations conducted as part of the Cyclistic Bike-Share Analysis Project, which is a component of my [Google Business Intelligence Certificate](https://coursera.org/share/c4f4857aeaf61150279d9e74d63276fa).
 
-# Project Summary
+### Project Summary
 Cyclistic, a bike-sharing company, aims to expand its customer base and improve its services by understanding how customers use their bikes. The project involves analyzing customer usage patterns, identifying demand at various station locations, and assessing the impact of weather on bike usage. Key goals include distinguishing usage patterns between subscribers and non-subscribers and providing actionable insights to inform strategic decisions for business growth and station placement.
 
 ## Repository Contents

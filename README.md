@@ -14,17 +14,24 @@ Detailed project plans, methodologies, and analysis frameworks.
 A comprehensive summary of the project's findings and insights.
 
 ## Key Insights
-### Customer Usage Patterns: Identification of popular starting and ending stations, trip duration analysis, and seasonal trends.
-Impact of Weather: Evaluation of how temperature, precipitation, and wind speed affect bike usage.
-Subscriber vs. Non-Subscriber Usage: Comparison of usage patterns between different user groups.
-Congestion and Demand: Insights into station congestion and recommendations for new station placements.
+### Customer Usage Patterns: 
+Identification of popular starting and ending stations, trip duration analysis, and seasonal trends.
+### Impact of Weather: 
+Evaluation of how temperature, precipitation, and wind speed affect bike usage.
+### Subscriber vs. Non-Subscriber Usage: 
+Comparison of usage patterns between different user groups.
+### Congestion and Demand: 
+Insights into station congestion and recommendations for new station placements.
 
-Tools and Technologies
-Google BigQuery: For querying and analyzing large datasets.
-Tableau Public: For creating interactive visualizations and dashboards.
-Power BI: For additional data analysis and visualization.
+## Tools and Technologies
+### Google BigQuery: 
+For querying and analyzing large datasets.
+### Tableau Public: 
+For creating interactive visualizations and dashboards.
+### MS PowerPoint: 
+For a brief overview of the most relevant information.
 
 How to Use This Repository
 Clone the Repository: Download the repository to your local machine.
 Google BigQuery: Access and query the datasets provided.
-Tableau and Power BI Files: Open the files to explore and interact with the visualizations.
+Tableau: Open the link to explore and interact with the visualizations.

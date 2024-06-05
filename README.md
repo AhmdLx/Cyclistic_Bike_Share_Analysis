@@ -8,7 +8,9 @@ Cyclistic, a bike-sharing company, aims to expand its customer base and improve 
 ### Project Planning Documents (PDF Files): 
 Detailed project plans, methodologies, and analysis frameworks.
 ### Data Pipeline SQL Code: 
-Queries used to process and analyze the data in Google BigQuery.
+Queries used to process and analyze the data in Google BigQuery. 
+[Summer Trends SQL Query](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends)
+[Total trips SQL Query](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m4!1m3!8m2!1s495492972980!2sa465fe42dbae4d86907b8e6327fedc86)
 ### Target Tables in Google Cloud BigQuery: 
 Link to BigQuery Tables 
 [Summer Trends Table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends)

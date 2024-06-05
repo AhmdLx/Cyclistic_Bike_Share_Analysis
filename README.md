@@ -9,8 +9,8 @@ Cyclistic, a bike-sharing company, aims to expand its customer base and improve 
 2- Data Pipeline SQL Code: Queries used to process and analyze the data in Google BigQuery.
 3- Target Tables in Google Cloud BigQuery: 
 Link to BigQuery Tables 
-Summer Trends Table [BigQuery Table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends)
-Total trips table [BigQuery Table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3stotal%2520trips%2520table-cyclistic%2520project)
+[Summer Trends Table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends)
+[Total trips table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3stotal%2520trips%2520table-cyclistic%2520project)
 4- Tableau Dashboard: Interactive Visualization (replace # with actual link)
 5- Executive Summary (PDF File): A comprehensive summary of the project's findings and insights.
 

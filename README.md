@@ -11,7 +11,7 @@ Cyclistic, a bike-sharing company, aims to expand its customer base and improve 
 Link to BigQuery Tables 
 [Summer Trends Table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3sSummer%2520Trends)
 [Total trips table](https://console.cloud.google.com/bigquery?project=cyclistic-nyc-zip-codes&ws=!1m5!1m4!4m3!1scyclistic-nyc-zip-codes!2scyclistic_project!3stotal%2520trips%2520table-cyclistic%2520project)
-4- Tableau Dashboard: Interactive Visualization (replace # with actual link)
+4- Tableau Dashboard: [Cyclistic Dashboard](https://public.tableau.com/app/profile/ahmdlx/viz/CyclisticProject_17088918886290/Cyclistic)
 5- Executive Summary (PDF File): A comprehensive summary of the project's findings and insights.
 
 Key Insights
